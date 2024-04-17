@@ -1,3 +1,2 @@
 Users:
 peter@abv.bg password: 123456
-george@abv.bg password: 123456
