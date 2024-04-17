@@ -4,6 +4,10 @@
 1) Open the server folder in terminal and type: node server.js
 2) Open the project folder in terminal and type: npm install and you will have node_modules folder
 3) Open the project folder in terminal and type: npm run start: this will open the project in localhost/3000
+4) User for login: 
+peter@abv.bg password: 123456
+george@abv.bg password: 123456
+----------------------------------------------------------------------------------------------------------------------
 
 
 ![Screenshot (23)](https://github.com/mihail859/Cyberpunk-Market/assets/135510186/23ec3392-44c5-4297-9118-b067ff5efea0)
