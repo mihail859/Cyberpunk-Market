@@ -6,7 +6,6 @@
 3) Open the project folder in terminal and type: npm run start: this will open the project in localhost/3000
 4) User for login: 
 peter@abv.bg password: 123456
-george@abv.bg password: 123456
 ----------------------------------------------------------------------------------------------------------------------
 
 
